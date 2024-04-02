@@ -25,11 +25,6 @@ estou cursando ensino médio com foco em tecnologia.
 </a>
 
 ### Confira meus repositórios favoritos!
-  - [Lista de exercícios em Portugol]()
-  - [Aplicativo de Música feito em C#]()
-  - [Curso de JavaScript - Gustavo Guanabara]()
-
-
-
-
-
+  - [Lista de exercícios em Portugol](https://github.com/ArthurJuwer/Portugol)
+  - [Aplicativo de Música feito em C#](https://github.com/ArthurJuwer/MusicApp)
+  - [Curso de JavaScript - Gustavo Guanabara](https://github.com/ArthurJuwer/JavaScript-CURSO-EM-VIDEO)
