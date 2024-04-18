@@ -1,5 +1,5 @@
-### Olá, meu nome é Arthur Juwer!
-estou cursando ensino médio com foco em tecnologia.
+### Opa, meu nome é Arthur Juwer!
+atualmente estou cursando o ensino médio com foco em tecnologia.
 
 - 💻 Minha primeira experiência com programação foi em 2022.
 - 📚 Decidi fazer meu ensino médio com técnico em T.I.
