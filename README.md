@@ -25,6 +25,7 @@ atualmente estou cursando o ensino médio com foco em tecnologia.
 </a>
 
 ### Confira meus repositórios favoritos!
+  - [Projetos em JavaScript](https://github.com/ArthurJuwer/Projetos-JavaScript)
   - [Lista de exercícios em Portugol](https://github.com/ArthurJuwer/Portugol)
   - [Aplicativo de Música feito em C#](https://github.com/ArthurJuwer/MusicApp)
-  - [Projetos em JavaScript](https://github.com/ArthurJuwer/Projetos-JavaScript)
+ 
