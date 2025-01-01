@@ -24,8 +24,9 @@ atualmente estou cursando o ensino médio com foco em tecnologia.
 </a>
 
 ### Confira meus repositórios favoritos!
+  - [Curriculum Maker](https://github.com/ArthurJuwer/CurriculumMaker)
   - [Gerenciador de Tarefas com REACT](Gerenciador-Tarefas-REACT)
   - [Projeto de CRUD OO em PHP](https://github.com/ArthurJuwer/projetoCRUD)
-  - [Replicando-Gemini](https://github.com/ArthurJuwer/Replicando-Gemini)
+  
  
  
