@@ -7,8 +7,10 @@ atualmente estou cursando o ensino médio com foco em tecnologia.
 - 🎯 Atualmente estou dando prioridade para estas linguagens:
   
 <div display="inline">
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width='50' height='50' src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
@@ -25,6 +27,7 @@ atualmente estou cursando o ensino médio com foco em tecnologia.
 <a href="https://arthurjuwer.github.io/Portifolio/">
   <img src="https://img.shields.io/badge/Portifolio-1E1E1E?style=for-the-badge&logo=Portifolio&logoColor=white" />
 </a>
+
 
 ### Confira meus repositórios favoritos!
   - [Curriculum Maker](https://github.com/ArthurJuwer/CurriculumMaker)
