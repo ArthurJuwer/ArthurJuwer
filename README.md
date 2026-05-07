@@ -5,16 +5,6 @@ atualmente estou cursando o ensino médio com foco em tecnologia.
 - 📚 Decidi fazer meu ensino médio com técnico em T.I.
 - ✈️ Domino tanto linguagens de programação em português quanto em inglês.
 - 🎯 Atualmente estou dando prioridade para estas linguagens:
-  
-<div display="inline">
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</div>
 
 ##
 
