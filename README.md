@@ -42,7 +42,7 @@ Se quiser trocar uma ideia sobre tecnologia, projetos, me chama.
 <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSHxTdVBSPJKVGrXJQQKplFLNFjSsNklXtXswbNkWHmfrJlkdgPgwzdHVtXRPtmCtcwNKNnD">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://arthurjuwer.netlify.app">
+<a href="https://arthurjuwer.vercel.app">
   <img src="https://img.shields.io/badge/Portifolio-1E1E1E?style=for-the-badge&logo=Portifolio&logoColor=white" />
 </a>
 
