@@ -15,9 +15,10 @@ const arthur = {
 
   achievements: [
     "🥇 1st Place — Career Quest SAP + J.A.RS",
+    "🥇 1st Place — II MOCIN2 Science Fair (Senac São Leopoldo)"
     "🥈 2nd Place — Senac RS Project Fair",
     "🥈 2nd Place — Tech+Health Hackathon (Senac São Leopoldo)",
-    "🥉 3rd Place — MOCIN2 Science Fair (Senac São Leopoldo)"
+    "🥉 3rd Place — I MOCIN2 Science Fair (Senac São Leopoldo)"
   ],
 
   interests: [
